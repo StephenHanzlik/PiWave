@@ -1,5 +1,8 @@
 {
   "name": "PiWave",
-  "app_id": "",
-  "gulpStartupTasks": ["sass", "watch"]
+  "app_id": "d3a6efd6",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ]
 }
